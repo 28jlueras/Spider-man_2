@@ -1,0 +1,61 @@
+body {
+    background-image: url(spiderman_2_ps5_wallpaper_by_bodskih_dfzyexo-pre.jpg);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    color: rgb(255, 0, 212);
+     
+}
+
+.button01{
+     border-radius: 15px;
+     background-color: #d11b1b;
+     height: 50px;
+     width: 180px;
+     color:white;
+     cursor: pointer;
+     border:none;
+     margin-left: 400px;
+     margin-top: 350px;
+     font-size: 15px;
+     
+}
+
+.button02{
+    border-radius: 15px;
+     background-color: #1b1a1a;
+     height: 50px;
+     width: 180px;
+     color:rgb(255, 0, 0);
+     cursor: pointer;
+     border:none;
+     margin-left: 600px;
+     margin-top: 150x;
+     font-size: 15px;
+}
+
+.button03{
+    border-radius: 15px;
+    background-color: #000000;
+    height: 50px;
+    width: 180px;
+    color:rgb(0, 0, 0);
+    cursor: pointer;
+    border:none;
+    margin-left: 800px;
+    margin-top: 4px;
+    font-size: 15px;
+}
+
+
+.button04{
+border:none;
+font-size: 50;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color:rgb(101, 169, 247)
+}
+ 
